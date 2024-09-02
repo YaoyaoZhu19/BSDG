@@ -1,6 +1,6 @@
 # Enlarging Fetaure Support Overlap for Domain Generalization
 
-Official PyTorch implementation of [Enlarging Fetaure Support Overlap for Domain Generalization](https://arxiv.org/abs/2407.05765)
+Official PyTorch implementation of Enlarging Fetaure Support Overlap for Domain Generalization
 
 
 ## Introduction
@@ -60,16 +60,3 @@ python -m domainbed.scripts.collect_results\
 
 The implementation is based on [DomainBed](https://github.com/facebookresearch/DomainBed)
 
-
-## Citation
-```
-@misc{zhu2024enlargingfeaturesupportoverlap,
-      title={Enlarging Feature Support Overlap for Domain Generalization}, 
-      author={Yaoyao Zhu and Xiuding Cai and Dong Miao and Yu Yao and Zhongliang Fu},
-      year={2024},
-      eprint={2407.05765},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.05765}, 
-}
-```
